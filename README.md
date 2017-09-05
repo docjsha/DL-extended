@@ -32,4 +32,5 @@
 * [O'Reilly Artificial Intelligence Conference 2017 -  New York, NY *](https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491976289/)  
 
 
+
 \* not free
