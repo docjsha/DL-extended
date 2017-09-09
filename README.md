@@ -3,7 +3,7 @@
 #### Udacity
 * [Deep Learning Nanodegree Foundation Program*](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)  
 * [Artificial Intelligence Nanodegree Program*](https://www.udacity.com/ai)  
-* [Intro to Parallel Computing by NVIDIA (Using CUDA to Harness the Power of GPUs)](https://www.udacity.com/course/intro-to-parallel-programming--cs344)  
+* [Intro to Parallel Programming by NVIDIA (Using CUDA to Harness the Power of GPUs)](https://www.udacity.com/course/intro-to-parallel-programming--cs344)  
 
 #### Coursera
 * [Deep Learning Specialization (Andrew Ng)*](https://www.coursera.org/specializations/deep-learning)  
