@@ -6,7 +6,7 @@
 * [Intro to Parallel Computing by NVIDIA (Using CUDA to Harness the Power of GPUs)](https://www.udacity.com/course/intro-to-parallel-programming--cs344)  
 
 #### Coursera
-* [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)  
+* [Deep Learning Specialization (Andrew Ng)*](https://www.coursera.org/specializations/deep-learning)  
 * [Neural Networks for Machine Learning (Geoffery Hinton)](https://www.coursera.org/learn/neural-networks)  
 * [Computer Architecture (Princeton University)](https://www.coursera.org/learn/comparch/)
 
