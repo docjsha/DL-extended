@@ -20,17 +20,21 @@
 * Google Codelabs:  [TensorFlow and deep learning without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html);  [Google I/O 2017 (TensorFlow)](https://codelabs.developers.google.com/io2017?cat=TensorFlow).  
 * Literature search:  [Arxiv Sanity Preserver (Andrej Karpathy)](http://www.arxiv-sanity.com);  [arXiv.org](https://arxiv.org).
 
+#### Books
+* [Deep Learning (An MIT Press book)](http://www.deeplearningbook.org)
+* [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 
 #### Docs
-* [Deep Learning (An MIT Press book)](http://www.deeplearningbook.org)
+* [TensorFlow Python API](https://www.tensorflow.org/api_docs/python/)
 * [CUDA Toolkit Documentation v8.0](http://docs.nvidia.com/cuda/#axzz4rctRHpwH)  
-* [TensorFlow Python API r1.3](https://www.tensorflow.org/api_docs/python/)
 * [Google Research Blog](https://research.googleblog.com/)  
 * [Facebook Research](https://research.fb.com/)
 
 #### Videos
 * TensorFlow and Deep Learning without a PhD (Google Cloud Next '17): [Part 1](https://www.youtube.com/watch?v=u4alGiomYP4), [Part 2](https://www.youtube.com/watch?v=fTUwdXUFfI8)  
-* [O'Reilly Artificial Intelligence Conference 2017 -  New York, NY *](https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491976289/)  
+* [O'Reilly Artificial Intelligence Conference 2017 -  New York, NY *](https://www.safaribooksonline.com/library/view/oreilly-artificial-intelligence/9781491976289/)
+* [François Chollet at France is AI 2017 - Deep Learning: current limits and future perspectives](https://www.youtube.com/watch?v=MUF32XHqM34)
 
 
 
