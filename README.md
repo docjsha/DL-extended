@@ -26,10 +26,13 @@
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)  
 * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
+#### Google
+* [Machine Learning Crash Course with TensorFlow API](https://developers.google.com/machine-learning/crash-course/)
+* Google Codelabs:  [TensorFlow and deep learning without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html);  [Google I/O 2017 (TensorFlow)](https://codelabs.developers.google.com/io2017?cat=TensorFlow).  
+
 #### Misc
 * [NVIDIA Deep Learning Institute (DLI)](https://www.nvidia.com/en-us/deep-learning-ai/education/)  
-* fast.ai's 7 week course: [Practical Deep Learning for Coders, Part 1](http://course.fast.ai);  [Cutting Edge Deep Learning for Coders, Part 2](http://course.fast.ai/part2.html).  
-* Google Codelabs:  [TensorFlow and deep learning without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html);  [Google I/O 2017 (TensorFlow)](https://codelabs.developers.google.com/io2017?cat=TensorFlow).  
+* fast.ai's 7 week course: [Practical Deep Learning for Coders, Part 1](http://course.fast.ai);  [Cutting Edge Deep Learning for Coders, Part 2](http://course.fast.ai/part2.html).
 * Literature search:  [Arxiv Sanity Preserver (Andrej Karpathy)](http://www.arxiv-sanity.com);  [arXiv.org](https://arxiv.org).
 
 #### Videos
